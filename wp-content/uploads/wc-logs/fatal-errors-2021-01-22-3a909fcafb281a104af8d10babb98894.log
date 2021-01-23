@@ -1,0 +1,2 @@
+2021-01-22T22:29:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\woocom2\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Payments\Integrations\BankTransfer.php on line 83
+
